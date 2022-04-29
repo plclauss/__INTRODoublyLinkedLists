@@ -1,6 +1,8 @@
 #include <iostream>
+#include "DoublyLinkedList.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    auto listHead = new DoublyLinkedList();
+
     return 0;
 }
