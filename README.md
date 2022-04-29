@@ -2,6 +2,10 @@
 
 ---
 
+*Note: These functions don't include error checks. For instance, `deleteNode(int32_t index)` does not check whether a node at this location exists.*
+
+---
+
 There really isn't much I learned about doubly-linked lists that I didn't already learn/cover in my [intro to singly-linked list's repository.](https://github.com/plclauss/__INTROLinkedLists)
 <br><br>
 

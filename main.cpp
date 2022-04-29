@@ -1,5 +1,4 @@
 #include <iostream>
-#include <memory>
 #include "DoublyLinkedList.h"
 
 int main() {
