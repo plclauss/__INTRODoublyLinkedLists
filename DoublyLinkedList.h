@@ -22,9 +22,13 @@ private:
 public:
     DoublyLinkedList();
 
+    ~DoublyLinkedList();
+
     Node& traverseListToIndex(int32_t index);
     void insertNode(int32_t data, int32_t index);
     void deleteNode(int32_t index);
+    Node& reverseList();
+    void printList();
 };
 
 
